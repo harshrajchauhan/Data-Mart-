@@ -233,4 +233,3 @@ VALUES ('2024-06-16', 2024, 6, 16, 6);
 
 This project demonstrates the process of creating a data warehouse using NYC job posting data. The structured approach of using fact and dimension tables allows for efficient data storage and retrieval, facilitating in-depth analysis of job trends in NYC.
 
-Thank you for using the NYC Jobs Data Warehouse Project! If you have questions or need assistance, please contact us.
